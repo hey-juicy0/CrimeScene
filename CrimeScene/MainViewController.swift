@@ -1,19 +1,19 @@
 //
-//  ViewController.swift
+//  MainViewController.swift
 //  CrimeScene
 //
-//  Created by Jeewoo Yim on 8/25/24.
+//  Created by Jeewoo Yim on 8/26/24.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class MainViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
-
+    
 
 }
-

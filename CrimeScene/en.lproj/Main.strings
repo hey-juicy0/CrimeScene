@@ -1,0 +1,120 @@
+
+/* Class = "UILabel"; text = "영문, 숫자, 특수문자 중 2종류 이상을 조합한 최소 8자리 비밀번호"; ObjectID = "2Y0-cb-zml"; */
+"2Y0-cb-zml.text" = "영문, 숫자, 특수문자 중 2종류 이상을 조합한 최소 8자리 비밀번호";
+
+/* Class = "UILabel"; text = "이메일"; ObjectID = "2eu-ah-oUR"; */
+"2eu-ah-oUR.text" = "이메일";
+
+/* Class = "UITextField"; placeholder = "입장 코드"; ObjectID = "4oo-hu-D3A"; */
+"4oo-hu-D3A.placeholder" = "입장 코드";
+
+/* Class = "UILabel"; text = "3/3 진행 중"; ObjectID = "7iR-ly-Ue3"; */
+"7iR-ly-Ue3.text" = "3/3 진행 중";
+
+/* Class = "UIButton"; configuration.title = "로그인"; ObjectID = "9rj-JN-fYy"; */
+"9rj-JN-fYy.configuration.title" = "로그인";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9rj-JN-fYy"; */
+"9rj-JN-fYy.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "테마 이름"; ObjectID = "A5U-uW-AZm"; */
+"A5U-uW-AZm.text" = "테마 이름";
+
+/* Class = "UILabel"; text = "회원가입"; ObjectID = "CdK-3n-1Db"; */
+"CdK-3n-1Db.text" = "회원가입";
+
+/* Class = "UILabel"; text = "인증번호 확인"; ObjectID = "Cw8-kK-fmC"; */
+"Cw8-kK-fmC.text" = "인증번호 확인";
+
+/* Class = "UILabel"; text = "비밀번호 확인"; ObjectID = "F0q-1m-z4p"; */
+"F0q-1m-z4p.text" = "비밀번호 확인";
+
+/* Class = "UILabel"; text = "휴대폰 인증"; ObjectID = "FPk-qY-DMc"; */
+"FPk-qY-DMc.text" = "휴대폰 인증";
+
+/* Class = "UIButton"; normalTitle = "인증번호 전송"; ObjectID = "KDr-cl-hH8"; */
+"KDr-cl-hH8.normalTitle" = "인증번호 전송";
+
+/* Class = "UILabel"; text = "인원 수"; ObjectID = "MJ4-nx-xKO"; */
+"MJ4-nx-xKO.text" = "인원 수";
+
+/* Class = "UILabel"; text = "회원가입"; ObjectID = "MkL-HU-iAT"; */
+"MkL-HU-iAT.text" = "회원가입";
+
+/* Class = "UILabel"; text = "초보 가능"; ObjectID = "N7x-7y-QTv"; */
+"N7x-7y-QTv.text" = "초보 가능";
+
+/* Class = "UILabel"; text = "회원가입"; ObjectID = "PGY-JA-KaY"; */
+"PGY-JA-KaY.text" = "회원가입";
+
+/* Class = "UILabel"; text = "회원가입"; ObjectID = "VXf-Tt-oQx"; */
+"VXf-Tt-oQx.text" = "회원가입";
+
+/* Class = "UILabel"; text = "1/3 진행 중"; ObjectID = "ZjI-b9-56I"; */
+"ZjI-b9-56I.text" = "1/3 진행 중";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aDN-Q1-bt2"; */
+"aDN-Q1-bt2.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "로그인"; ObjectID = "bSe-p5-zLJ"; */
+"bSe-p5-zLJ.configuration.title" = "로그인";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bSe-p5-zLJ"; */
+"bSe-p5-zLJ.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "회원가입"; ObjectID = "cFw-0b-sMY"; */
+"cFw-0b-sMY.configuration.title" = "회원가입";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cFw-0b-sMY"; */
+"cFw-0b-sMY.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "비밀번호"; ObjectID = "cQC-5E-xxq"; */
+"cQC-5E-xxq.text" = "비밀번호";
+
+/* Class = "UILabel"; text = "비밀번호"; ObjectID = "erv-cb-gex"; */
+"erv-cb-gex.text" = "비밀번호";
+
+/* Class = "UIButton"; configuration.title = "입장 가능한 방만 보기"; ObjectID = "fPS-pc-8jt"; */
+"fPS-pc-8jt.configuration.title" = "입장 가능한 방만 보기";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "fPS-pc-8jt"; */
+"fPS-pc-8jt.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "로그인"; ObjectID = "fgu-Ia-vC7"; */
+"fgu-Ia-vC7.text" = "로그인";
+
+/* Class = "UILabel"; text = "이메일"; ObjectID = "gCU-eo-Hep"; */
+"gCU-eo-Hep.text" = "이메일";
+
+/* Class = "UILabel"; text = "비밀방"; ObjectID = "hYE-48-Hwl"; */
+"hYE-48-Hwl.text" = "비밀방";
+
+/* Class = "UIButton"; normalTitle = "확인"; ObjectID = "iSy-ta-pMs"; */
+"iSy-ta-pMs.normalTitle" = "확인";
+
+/* Class = "UIButton"; configuration.title = "회원가입"; ObjectID = "isM-kw-WLg"; */
+"isM-kw-WLg.configuration.title" = "회원가입";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "isM-kw-WLg"; */
+"isM-kw-WLg.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "2/3 진행 중"; ObjectID = "l0k-S5-jav"; */
+"l0k-S5-jav.text" = "2/3 진행 중";
+
+/* Class = "UIButton"; configuration.title = "다음"; ObjectID = "lqG-ec-dar"; */
+"lqG-ec-dar.configuration.title" = "다음";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lqG-ec-dar"; */
+"lqG-ec-dar.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "아직 회원이 아니신가요?"; ObjectID = "szS-XO-2j5"; */
+"szS-XO-2j5.text" = "아직 회원이 아니신가요?";
+
+/* Class = "UIButton"; configuration.title = "다음"; ObjectID = "tbK-Yc-Zgd"; */
+"tbK-Yc-Zgd.configuration.title" = "다음";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "tbK-Yc-Zgd"; */
+"tbK-Yc-Zgd.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "회원가입이 완료되었습니다."; ObjectID = "wrD-Cq-rfE"; */
+"wrD-Cq-rfE.text" = "회원가입이 완료되었습니다.";
