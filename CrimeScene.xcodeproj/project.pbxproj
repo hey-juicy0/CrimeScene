@@ -12,6 +12,7 @@
 		6E106B622C7B753C0028CF71 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 6E106B612C7B753C0028CF71 /* Base */; };
 		6E106B642C7B753D0028CF71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E106B632C7B753D0028CF71 /* Assets.xcassets */; };
 		6E106B672C7B753D0028CF71 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 6E106B662C7B753D0028CF71 /* Base */; };
+		6E5DFFD42C7EDE5B00EEF4F5 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 6E5DFFD32C7EDE5B00EEF4F5 /* .gitignore */; };
 		6EC92F7F2C7C2CAD0062CC5D /* FirstSignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EC92F7E2C7C2CAD0062CC5D /* FirstSignUpViewController.swift */; };
 		6EC92F812C7C2CD60062CC5D /* SecondSignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EC92F802C7C2CD60062CC5D /* SecondSignUpViewController.swift */; };
 		6EC92F832C7C2CE60062CC5D /* ThirdSignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EC92F822C7C2CE60062CC5D /* ThirdSignUpViewController.swift */; };
@@ -33,6 +34,7 @@
 		6E106B632C7B753D0028CF71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6E106B662C7B753D0028CF71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6E106B682C7B753D0028CF71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6E5DFFD32C7EDE5B00EEF4F5 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		6EC92F7E2C7C2CAD0062CC5D /* FirstSignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstSignUpViewController.swift; sourceTree = "<group>"; };
 		6EC92F802C7C2CD60062CC5D /* SecondSignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondSignUpViewController.swift; sourceTree = "<group>"; };
 		6EC92F822C7C2CE60062CC5D /* ThirdSignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdSignUpViewController.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 				6E106B652C7B753D0028CF71 /* LaunchScreen.storyboard */,
 				6EC92F932C7E18580062CC5D /* FourthSignUpViewController.swift */,
 				6E106B682C7B753D0028CF71 /* Info.plist */,
+				6E5DFFD32C7EDE5B00EEF4F5 /* .gitignore */,
 				6EC92F822C7C2CE60062CC5D /* ThirdSignUpViewController.swift */,
 				6EC92F8A2C7C307B0062CC5D /* GoogleService-Info.plist */,
 			);
@@ -160,6 +163,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6E5DFFD42C7EDE5B00EEF4F5 /* .gitignore in Resources */,
 				6EC92F8B2C7C307B0062CC5D /* GoogleService-Info.plist in Resources */,
 				6E106B642C7B753D0028CF71 /* Assets.xcassets in Resources */,
 				6E106B672C7B753D0028CF71 /* Base in Resources */,
